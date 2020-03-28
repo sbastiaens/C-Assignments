@@ -1,3 +1,3 @@
 # C-Assignments
 
-Programming II Assignments from ICL 
+C++ Programming II Assignments from ICL 
